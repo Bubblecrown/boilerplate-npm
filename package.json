@@ -1,5 +1,6 @@
 {
 	"author": "Bubble",
+	"description": "This project includes my learning paths.",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
